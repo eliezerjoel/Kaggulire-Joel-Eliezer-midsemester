@@ -27,3 +27,9 @@
         margin-top: 5%;
     
     }
+    a{
+        color: #ADEFD1FF;
+    }
+    a:hover{
+        color: blueviolet;
+    }

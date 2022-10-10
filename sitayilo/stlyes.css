@@ -30,6 +30,9 @@
     a{
         color: #ADEFD1FF;
     }
+    .ab{
+        color: #00203FFF;
+    }
     a:hover{
         color: blueviolet;
     }

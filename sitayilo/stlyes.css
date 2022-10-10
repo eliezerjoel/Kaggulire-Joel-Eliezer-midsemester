@@ -16,3 +16,12 @@
     padding: 10px;
     
 }
+.conts{
+    
+        background-color: aliceblue;
+        padding: 5px;
+        width: 200px;
+        border-radius: 5px;
+        display: inline-block;
+    
+    }
